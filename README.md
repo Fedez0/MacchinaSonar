@@ -156,12 +156,4 @@ Questo progetto è pensato come base per un robot mobile autonomo con sensore ul
 
 Il progetto è in fase di sviluppo firmware e configurazione hardware, con logica di movimento e sensori già implementata nel codice principale.
 
----
 
-Se vuoi, posso anche prepararti una seconda versione del README ancora più “da GitHub” con:
-
-- banner hero più bello
-- sezione “Features” con icone
-- foto / schema schematico in ASCII
-- tabella più dettagliata del pinout per il robot completo
-- versione in inglese pronta per repo pubblico
