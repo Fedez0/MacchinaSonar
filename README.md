@@ -1,7 +1,7 @@
 # GarenCaren
 
 <p align="center">
-  <img src="./images/banner.jpeg" alt="GarenCaren banner" width="100%" />
+  <img src="./images/banner.png" alt="GarenCaren banner" width="100%" />
 </p>
 
 <p align="center">
