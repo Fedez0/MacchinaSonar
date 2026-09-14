@@ -1,6 +1,10 @@
 # GarenCaren
 
 <p align="center">
+  <img src="./images/banner.jpeg" alt="GarenCaren banner" width="100%" />
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/Project-GarenCaren-00AEEF?style=for-the-badge&logo=c&logoColor=white" alt="GarenCaren" />
   <img src="https://img.shields.io/badge/MCU-STM32L475VGTX-03234B?style=for-the-badge" alt="STM32L475VGTX" />
   <img src="https://img.shields.io/badge/Toolchain-STM32CubeIDE-0097D8?style=for-the-badge" alt="STM32CubeIDE" />
